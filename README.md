@@ -7,11 +7,11 @@ A humble explorer of AnyScript
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       6 hrs 28 mins   ████████████▓░░░░░░░░░░░░   51.24 %
-TypeScript   1 hr 34 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
-JavaScript   1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-JSON         55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-HTML         49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+TypeScript   4 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   30.96 %
+Vue.js       4 hrs 8 mins    ███████▓░░░░░░░░░░░░░░░░░   30.07 %
+SCSS         1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+JavaScript   1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+JSON         56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
 ```
 
 <!--END_SECTION:waka-->
