@@ -14,7 +14,9 @@ A humble explorer of AnyScript
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other        26 mins         █████████████████████▓░░░   86.72 %
+CSS          3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
