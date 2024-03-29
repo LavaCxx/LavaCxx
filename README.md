@@ -14,11 +14,11 @@ A humble explorer of AnyScript
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       5 hrs 1 min     ████████████░░░░░░░░░░░░░   47.81 %
-TypeScript   2 hrs 47 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.62 %
-JavaScript   1 hr 23 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
-Astro        57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-MDX          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Vue.js       2 hrs 33 mins   █████████░░░░░░░░░░░░░░░░   35.96 %
+TypeScript   2 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░░░   31.22 %
+JavaScript   1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
+Astro        56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
+MDX          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 ```
 
 <!--END_SECTION:waka-->
