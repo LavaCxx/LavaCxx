@@ -14,8 +14,8 @@ A humble explorer of AnyScript
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   0 secs          ████████████████████░░░░░   80.58 %
-Vue.js       0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.42 %
+JavaScript   0 secs          ██████████████████████▓░░   90.67 %
+Vue.js       0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
 ```
 
 <!--END_SECTION:waka-->
