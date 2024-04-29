@@ -14,7 +14,11 @@ A humble explorer of AnyScript
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   37 mins         █████████████████████████   100.00 %
+JavaScript   37 mins         ███████████████▓░░░░░░░░░   62.67 %
+CSS          8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
+Markdown     5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+HTML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+JSON         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
 ```
 
 <!--END_SECTION:waka-->
