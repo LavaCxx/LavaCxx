@@ -14,7 +14,7 @@ A humble explorer of AnyScript
 <!--START_SECTION:waka-->
 
 ```txt
-Astro   3 hrs 12 mins   █████████████████████████   100.00 %
+Astro   18 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
