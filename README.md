@@ -14,8 +14,8 @@ A humble explorer of AnyScript
 <!--START_SECTION:waka-->
 
 ```txt
-Astro        7 hrs 29 mins   ████████████████████████▒   97.61 %
-JavaScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Astro        4 hrs 27 mins   ████████████████████████░   96.05 %
+JavaScript   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 ```
 
 <!--END_SECTION:waka-->
