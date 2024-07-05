@@ -14,11 +14,10 @@ A humble explorer of AnyScript
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         44 mins         █████████▓░░░░░░░░░░░░░░░   38.26 %
-TypeScript   34 mins         ███████▓░░░░░░░░░░░░░░░░░   30.06 %
-JSON         15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
-JavaScript   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
-Rust         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+TypeScript   34 mins         ███████████░░░░░░░░░░░░░░   44.14 %
+Python       28 mins         █████████░░░░░░░░░░░░░░░░   35.99 %
+JSON         15 mins         █████░░░░░░░░░░░░░░░░░░░░   19.79 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
