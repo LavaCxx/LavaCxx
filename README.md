@@ -11,6 +11,8 @@ A humble explorer of AnyScript
 
 ![LavaC's GitHub stats](https://github-readme-stats.vercel.app/api?username=LavaCxx&show_icons=true&theme=synthwave)
 
+![LavaC's Leetcode stats](https://leetcard.jacoblin.cool/LavaC?theme=nord&font=Amiko&ext=activity&site=cn)
+
 <!--START_SECTION:waka-->
 
 ```txt
