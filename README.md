@@ -16,7 +16,11 @@ A humble explorer of AnyScript
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   1 hr 46 mins    █████████████████▒░░░░░░░   68.73 %
+Astro        38 mins         ██████░░░░░░░░░░░░░░░░░░░   24.59 %
+JavaScript   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
