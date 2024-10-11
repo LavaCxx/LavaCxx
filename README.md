@@ -16,11 +16,11 @@ A humble explorer of AnyScript
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   23 mins         ████████████████▒░░░░░░░░   64.99 %
-YAML         8 mins          ██████░░░░░░░░░░░░░░░░░░░   24.51 %
-Git Config   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+YAML         8 mins          █████████████████░░░░░░░░   68.44 %
+Git Config   3 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.71 %
+JavaScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
