@@ -16,11 +16,8 @@ A humble explorer of AnyScript
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         8 mins          █████████████████░░░░░░░░   68.44 %
-Git Config   3 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.71 %
-JavaScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+YAML   8 mins          █████████████████████████   99.53 %
+CSS    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
