@@ -20,5 +20,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-![LavaC's Leetcode sc](https://sc.lavac.cc/browser/userShot?id=lavac)
