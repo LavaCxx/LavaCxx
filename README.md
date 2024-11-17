@@ -20,5 +20,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-![temp](https://api.lavac.cc/browser/shot?url=https://www.ruanyifeng.com/blog/)
