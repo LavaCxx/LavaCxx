@@ -16,7 +16,8 @@ A humble explorer of AnyScript
 <!--START_SECTION:waka-->
 
 ```txt
-CSS   2 mins          █████████████████████████   100.00 %
+TypeScript   2 mins          ████████████▓░░░░░░░░░░░░   51.15 %
+CSS          2 mins          ████████████▒░░░░░░░░░░░░   48.85 %
 ```
 
 <!--END_SECTION:waka-->
