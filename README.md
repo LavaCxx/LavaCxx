@@ -16,11 +16,11 @@ A humble explorer of AnyScript
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 19 mins   █████████████████░░░░░░░░   67.70 %
-CSS          38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-Astro        19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-JavaScript   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
-JSON         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+TypeScript   4 hrs 7 mins    ███████████████▓░░░░░░░░░   62.58 %
+CSS          1 hr 30 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
+Astro        20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+JavaScript   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
