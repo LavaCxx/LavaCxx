@@ -16,7 +16,9 @@ A humble explorer of AnyScript
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Astro    2 hrs 2 mins    █████████████████░░░░░░░░   67.97 %
+JSON     56 mins         ████████░░░░░░░░░░░░░░░░░   31.71 %
+Vue.js   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
