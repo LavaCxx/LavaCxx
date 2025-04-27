@@ -16,7 +16,11 @@ A humble explorer of AnyScript
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   43 mins         ████████████▓░░░░░░░░░░░░   50.05 %
+Markdown     29 mins         ████████▓░░░░░░░░░░░░░░░░   34.28 %
+TSConfig     12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
