@@ -16,9 +16,9 @@ A humble explorer of AnyScript
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 33 mins    █████████████████████████   99.54 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+TypeScript   50 mins         ████████████████████████▓   99.15 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
