@@ -13,13 +13,6 @@ A humble explorer of AnyScript
 
 ![LavaC's Leetcode stats](https://leetcard.jacoblin.cool/LavaC?theme=nord&font=Amiko&ext=activity&site=cn)
 
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   27 mins         ██████████████▒░░░░░░░░░░   57.36 %
-JSON         12 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.42 %
-Bash         4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-Markdown     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-```
-
-<!--END_SECTION:waka-->
+<a href="https://github.com/LavaCxx/LavaCxx">
+  <img src="https://render.gitanimals.org/farms/LavaCxx"/>
+</a>
